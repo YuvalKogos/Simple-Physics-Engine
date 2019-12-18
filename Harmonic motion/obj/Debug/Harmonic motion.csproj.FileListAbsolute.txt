@@ -1,0 +1,30 @@
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe.config
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.pdb
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csprojResolveAssemblyReference.cache
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Form1.resources
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Properties.Resources.resources
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.GenerateResource.Cache
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.CoreCompileInputs.cache
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.exe
+c:\users\yuval\source\repos\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.pdb
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csprojResolveAssemblyReference.cache
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Form1.resources
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Properties.Resources.resources
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.GenerateResource.Cache
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.exe
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.pdb
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe.config
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe
+C:\Users\yuval\Desktop\Finished Projects\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.pdb
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe.config
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.exe
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\bin\Debug\Harmonic motion.pdb
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csprojResolveAssemblyReference.cache
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Form8.resources
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic_motion.Properties.Resources.resources
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.GenerateResource.Cache
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.csproj.CoreCompileInputs.cache
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.exe
+C:\Users\yuval\Desktop\Physics Project\Harmonic motion\Harmonic motion\obj\Debug\Harmonic motion.pdb
